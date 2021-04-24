@@ -1,6 +1,7 @@
 { rustChannelOf }:
 (rustChannelOf {
   channel = "stable";
+  date = "2021-04-24";
   sha256 = "sha256-+EFKtTDUlFY0aUXdSvrz7tAhf5/GsqyVOp8skXGTEJM=";
 }).rust.override {
   extensions = [
